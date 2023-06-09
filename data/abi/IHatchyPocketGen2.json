@@ -1,0 +1,10 @@
+[
+  "function _lunarCommonPool(uint256) returns (uint256)",
+  "function _lunarShinyPool(uint256) returns (uint256)",
+  "function _sharedCommonPool(uint256) returns (uint256)",
+  "function _sharedShinyPool(uint256) returns (uint256)",
+  "function _solarCommonPool(uint256) returns (uint256)",
+  "function _solarShinyPool(uint256) returns (uint256)",
+  "function accountBalanceBatch(address,uint256[]) view returns (uint256[])",
+  "function hatchySupplies(uint256) returns (uint256)"
+]

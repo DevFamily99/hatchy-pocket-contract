@@ -1,0 +1,8 @@
+[
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function createSwapOffer(tuple(tuple(address,uint256[],uint256[])[],tuple(address,uint256[])[],tuple(address,uint256)[]),tuple(tuple(address,uint256[],uint256[])[],tuple(address,uint256[])[],tuple(address,uint256)[]),uint256)",
+  "function matchSwapOffer(uint256)",
+  "function owner() view returns (address)",
+  "function renounceOwnership()",
+  "function transferOwnership(address)"
+]

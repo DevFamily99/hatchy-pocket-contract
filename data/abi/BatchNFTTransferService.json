@@ -1,0 +1,9 @@
+[
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function batchSafeTransfer(address,address[],uint256[])",
+  "function batchTransfer(address,address[],uint256[])",
+  "function owner() view returns (address)",
+  "function renounceOwnership()",
+  "function saveNFTs(address,address,uint256[])",
+  "function transferOwnership(address)"
+]

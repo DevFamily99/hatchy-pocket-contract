@@ -1,0 +1,5 @@
+[
+  "function class() view returns (string)",
+  "function dn(uint256,uint256) view returns (uint256)",
+  "function version() view returns (string)"
+]
